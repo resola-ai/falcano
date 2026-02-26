@@ -179,3 +179,12 @@ class Team(BaseModel):
 - Supports the entire DynamoDB API
 - Full table backup/restore
 - Batch operations with automatic pagination
+
+---
+## Repository archived
+
+This repository was automatically archived on **2026-02-26 13:17:28** UTC.
+
+To request reactivation, contact the team in **#infra** or **#engineering** on Slack.
+
+**Note:** Repositories archived for more than one year are subject to complete removal without further notice.
